@@ -1,0 +1,2315 @@
+{
+    "Bus 1":
+    [
+        {
+            "name": "Vlakové nádraží",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Vlakové nádraží",
+            "departure": "12:15",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "U autobusového nádraží",
+            "departure": "12:16",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Burketova",
+            "departure": "12:20",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Václavské nám.",
+            "departure": "12:21",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Strakonická",
+            "departure": "12:22",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Václavské nám.",
+            "departure": "12:24",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Burketova",
+            "departure": "12:25",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Čelakovského",
+            "departure": "12:26",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dvořákova",
+            "departure": "12:28",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kulturní dům",
+            "departure": "12:29",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kollárova",
+            "departure": "12:30",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Lesní hřbitov",
+            "departure": "12:34",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Logry",
+            "departure": "12:37",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Žižkova",
+            "departure": "12:40",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Harantova",
+            "departure": "12:42",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Nemocnice",
+            "departure": "12:44",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Budovcova",
+            "departure": "12:46",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Nádražní",
+            "departure": "12:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "U autobusového nádraží",
+            "departure": "12:49",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Vlakové nádraží",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Vlakové nádraží",
+            "departure": "12:15",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "U autobusového nádraží",
+            "departure": "12:16",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Burketova",
+            "departure": "12:20",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Václavské nám.",
+            "departure": "12:21",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Strakonická",
+            "departure": "12:22",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Václavské nám.",
+            "departure": "12:24",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Burketova",
+            "departure": "12:25",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Čelakovského",
+            "departure": "12:26",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dvořákova",
+            "departure": "12:28",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kulturní dům",
+            "departure": "12:29",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kollárova",
+            "departure": "12:30",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Lesní hřbitov",
+            "departure": "12:34",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Logry",
+            "departure": "12:37",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Žižkova",
+            "departure": "12:40",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Harantova",
+            "departure": "12:42",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Nemocnice",
+            "departure": "12:44",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Budovcova",
+            "departure": "12:46",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Nádražní",
+            "departure": "12:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "U autobusového nádraží",
+            "departure": "12:49",
+            "fixed_codes": "\n"
+        }
+    ],
+    "Bus 6":
+    [
+        {
+            "name": "Dvořákova",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Hradiště",
+            "departure": "7:31",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Ke Střelnici",
+            "departure": "7:32",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Na Rozhledně",
+            "departure": "7:34",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Vlakové nádraží",
+            "departure": "7:37",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "U autobusového nádraží",
+            "departure": "7:38",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Nádražní",
+            "departure": "7:39",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Budovcova",
+            "departure": "7:41",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Velké náměstí",
+            "departure": "7:43",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Nemocnice",
+            "departure": "7:46",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Harantova",
+            "departure": "7:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Žižkova",
+            "departure": "7:50",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedláčkova",
+            "departure": "7:51",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "U pekárny",
+            "departure": "7:52",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Za Pazdernou",
+            "departure": "7:53",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Na Houpačkách",
+            "departure": "7:55",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dvořákova",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Hradiště",
+            "departure": "7:31",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Ke Střelnici",
+            "departure": "7:32",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Na Rozhledně",
+            "departure": "7:34",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Vlakové nádraží",
+            "departure": "7:37",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "U autobusového nádraží",
+            "departure": "7:38",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Nádražní",
+            "departure": "7:39",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Budovcova",
+            "departure": "7:41",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Velké náměstí",
+            "departure": "7:43",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Nemocnice",
+            "departure": "7:46",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Harantova",
+            "departure": "7:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Žižkova",
+            "departure": "7:50",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedláčkova",
+            "departure": "7:51",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "U pekárny",
+            "departure": "7:52",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Za Pazdernou",
+            "departure": "7:53",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Na Houpačkách",
+            "departure": "7:55",
+            "fixed_codes": "\n"
+        }
+    ],
+    "Bus 360068 12":
+    [
+        {
+            "name": "Milevsko,,aut.st.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "10:30",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">7</span></span>\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "10:34",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "10:39",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "10:41",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "10:42",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "10:44",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří",
+            "departure": "10:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Záhoří,Jamný,rozc.",
+            "departure": "10:51",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Temešvár",
+            "departure": "10:54",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Podolí I,,rozc.0.3",
+            "departure": "10:56",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I",
+            "departure": "10:59",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křenovice",
+            "departure": "11:01",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bernartice,,nám.",
+            "departure": "11:04",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Veselíčko,Bílina",
+            "departure": "11:06",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Veselíčko",
+            "departure": "11:08",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křižanov,,rozc.1.0",
+            "departure": "11:10",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Okrouhlá,,rozc.",
+            "departure": "11:13",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Milevsko,,stadion",
+            "departure": "11:20",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Milevsko,,aut.st.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "10:30",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">7</span></span>\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "10:34",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "10:39",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "10:41",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "10:42",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "10:44",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří",
+            "departure": "10:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Záhoří,Jamný,rozc.",
+            "departure": "10:51",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Temešvár",
+            "departure": "10:54",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Podolí I,,rozc.0.3",
+            "departure": "10:56",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I",
+            "departure": "10:59",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křenovice",
+            "departure": "11:01",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bernartice,,nám.",
+            "departure": "11:04",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Veselíčko,Bílina",
+            "departure": "11:06",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Veselíčko",
+            "departure": "11:08",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křižanov,,rozc.1.0",
+            "departure": "11:10",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Okrouhlá,,rozc.",
+            "departure": "11:13",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Milevsko,,stadion",
+            "departure": "11:20",
+            "fixed_codes": "\n"
+        }
+    ],
+    "Bus 360006 13":
+    [
+        {
+            "name": "Albrechtice n.Vlt.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "10:45",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">4</span></span>\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "10:47",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "10:52",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "10:54",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "10:56",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "10:58",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly",
+            "departure": "11:00",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dolní Novosedly,Chrastiny",
+            "departure": "11:02",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky,Probulov",
+            "departure": "11:04",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Kluky,,U křížku",
+            "departure": "11:06",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky",
+            "departure": "11:08",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky,Dobešice",
+            "departure": "11:10",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Chřešťovice",
+            "departure": "11:13",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Jehnědno,U křížku",
+            "departure": "11:16",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Jehnědno",
+            "departure": "11:18",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Údraž,chalupy",
+            "departure": "11:20",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Údraž",
+            "departure": "11:21",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "10:45",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">4</span></span>\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "10:47",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "10:52",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "10:54",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "10:56",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "10:58",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly",
+            "departure": "11:00",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dolní Novosedly,Chrastiny",
+            "departure": "11:02",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky,Probulov",
+            "departure": "11:04",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Kluky,,U křížku",
+            "departure": "11:06",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky",
+            "departure": "11:08",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky,Dobešice",
+            "departure": "11:10",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Chřešťovice",
+            "departure": "11:13",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Jehnědno,U křížku",
+            "departure": "11:16",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Jehnědno",
+            "departure": "11:18",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Údraž,chalupy",
+            "departure": "11:20",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Údraž",
+            "departure": "11:21",
+            "fixed_codes": "\n"
+        }
+    ],
+    "Bus 360068 13":
+    [
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">7</span></span>\n"
+        },
+        {
+            "name": "Milevsko,,aut.st.",
+            "departure": "10:35",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">9</span></span>\n"
+        },
+        {
+            "name": "Milevsko,,stadion",
+            "departure": "10:39",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Okrouhlá,,rozc.",
+            "departure": "10:43",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Křižanov,,rozc.1.0",
+            "departure": "10:46",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Veselíčko",
+            "departure": "10:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Veselíčko,Bílina",
+            "departure": "10:51",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Bernartice,,nám.",
+            "departure": "10:55",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křenovice",
+            "departure": "10:57",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I",
+            "departure": "11:00",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I,,rozc.0.3",
+            "departure": "11:03",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Temešvár",
+            "departure": "11:05",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Jamný,rozc.",
+            "departure": "11:07",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří",
+            "departure": "11:09",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "11:12",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "11:13",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "11:14",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "11:17",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "11:21",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">7</span></span>\n"
+        },
+        {
+            "name": "Milevsko,,aut.st.",
+            "departure": "10:35",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">9</span></span>\n"
+        },
+        {
+            "name": "Milevsko,,stadion",
+            "departure": "10:39",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Okrouhlá,,rozc.",
+            "departure": "10:43",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Křižanov,,rozc.1.0",
+            "departure": "10:46",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Veselíčko",
+            "departure": "10:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Veselíčko,Bílina",
+            "departure": "10:51",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Bernartice,,nám.",
+            "departure": "10:55",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křenovice",
+            "departure": "10:57",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I",
+            "departure": "11:00",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I,,rozc.0.3",
+            "departure": "11:03",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Temešvár",
+            "departure": "11:05",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Jamný,rozc.",
+            "departure": "11:07",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří",
+            "departure": "11:09",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "11:12",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "11:13",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "11:14",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "11:17",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "11:21",
+            "fixed_codes": "\n"
+        }
+    ],
+    "Bus 360068 14":
+    [
+        {
+            "name": "Milevsko,,aut.st.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "11:30",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">7</span></span>\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "11:34",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "11:38",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "11:41",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "11:42",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "11:44",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří",
+            "departure": "11:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Záhoří,Jamný,rozc.",
+            "departure": "11:50",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Temešvár",
+            "departure": "11:52",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Podolí I,Podolsko,rozc.",
+            "departure": "11:54",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Podolí I",
+            "departure": "11:58",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křenovice",
+            "departure": "12:00",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bernartice,,nám.",
+            "departure": "12:04",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Veselíčko,Bílina",
+            "departure": "12:06",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Veselíčko",
+            "departure": "12:08",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křižanov,,rozc.1.0",
+            "departure": "12:10",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Okrouhlá,,rozc.",
+            "departure": "12:11",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Milevsko,,stadion",
+            "departure": "12:16",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Milevsko,,aut.st.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "11:30",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">7</span></span>\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "11:34",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "11:38",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "11:41",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "11:42",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "11:44",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří",
+            "departure": "11:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Záhoří,Jamný,rozc.",
+            "departure": "11:50",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Temešvár",
+            "departure": "11:52",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Podolí I,Podolsko,rozc.",
+            "departure": "11:54",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Podolí I",
+            "departure": "11:58",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křenovice",
+            "departure": "12:00",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bernartice,,nám.",
+            "departure": "12:04",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Veselíčko,Bílina",
+            "departure": "12:06",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Veselíčko",
+            "departure": "12:08",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křižanov,,rozc.1.0",
+            "departure": "12:10",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Okrouhlá,,rozc.",
+            "departure": "12:11",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Milevsko,,stadion",
+            "departure": "12:16",
+            "fixed_codes": "\n"
+        }
+    ],
+    "Bus 360007 31":
+    [
+        {
+            "name": "Zvíkovské Podhradí",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "12:40",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">9</span></span>\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "12:45",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "12:51",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "12:54",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "12:55",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "12:57",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří,ObÚ",
+            "departure": "13:00",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Záhoří,Dolní Záhoří",
+            "departure": "13:01",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Vlastec",
+            "departure": "13:04",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Vlastec,Červený Újezdec,rozc.Tukleky 1.0",
+            "departure": "13:06",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Oslov,Tukleky",
+            "departure": "13:07",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Oslov,,Pazderna",
+            "departure": "13:09",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Oslov",
+            "departure": "13:11",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Oslov,,Mošov.myslivna",
+            "departure": "13:13",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Zvíkovské Podhradí",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "12:40",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">9</span></span>\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "12:45",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "12:51",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "12:54",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "12:55",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "12:57",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří,ObÚ",
+            "departure": "13:00",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Záhoří,Dolní Záhoří",
+            "departure": "13:01",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Vlastec",
+            "departure": "13:04",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Vlastec,Červený Újezdec,rozc.Tukleky 1.0",
+            "departure": "13:06",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Oslov,Tukleky",
+            "departure": "13:07",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Oslov,,Pazderna",
+            "departure": "13:09",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Oslov",
+            "departure": "13:11",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Oslov,,Mošov.myslivna",
+            "departure": "13:13",
+            "fixed_codes": "\n"
+        }
+    ],
+    "Bus 380810 4":
+    [
+        {
+            "name": "Blatná,,Boženy Němcové",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "10:50",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">8</span></span>\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "10:53",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Pražská",
+            "departure": "10:57",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Na Kuchyňce",
+            "departure": "10:59",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Čížová,,Dobešice",
+            "departure": "11:01",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Drhovle,Chlaponice",
+            "departure": "11:05",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Předotice,Nová Hospoda,sil.č.20",
+            "departure": "11:07",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Předotice,Šamonice,rozc.",
+            "departure": "11:09",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Drhovle,Dubí Hora,rozc.1.0",
+            "departure": "11:12",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedlice,,obora myslivna",
+            "departure": "11:17",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedlice,Holušice,rozc.2.0",
+            "departure": "11:19",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedlice,,škola",
+            "departure": "11:24",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedlice,,nám.",
+            "departure": "11:25",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedlice,Němčice",
+            "departure": "11:28",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Blatná,Hněvkov",
+            "departure": "11:32",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Blatná,,mlékárna",
+            "departure": "11:37",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Blatná,,Vorlíčkova",
+            "departure": "11:38",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Blatná,,Boženy Němcové",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "10:50",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">8</span></span>\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "10:53",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Pražská",
+            "departure": "10:57",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Na Kuchyňce",
+            "departure": "10:59",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Čížová,,Dobešice",
+            "departure": "11:01",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Drhovle,Chlaponice",
+            "departure": "11:05",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Předotice,Nová Hospoda,sil.č.20",
+            "departure": "11:07",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Předotice,Šamonice,rozc.",
+            "departure": "11:09",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Drhovle,Dubí Hora,rozc.1.0",
+            "departure": "11:12",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedlice,,obora myslivna",
+            "departure": "11:17",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedlice,Holušice,rozc.2.0",
+            "departure": "11:19",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedlice,,škola",
+            "departure": "11:24",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedlice,,nám.",
+            "departure": "11:25",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Sedlice,Němčice",
+            "departure": "11:28",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Blatná,Hněvkov",
+            "departure": "11:32",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Blatná,,mlékárna",
+            "departure": "11:37",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Blatná,,Vorlíčkova",
+            "departure": "11:38",
+            "fixed_codes": "\n"
+        }
+    ],
+    "Bus 390210 82":
+    [
+        {
+            "name": "Tábor,,aut.nádr.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Vimperk,,aut.nádr.",
+            "departure": "11:20",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">3</span></span>\n"
+        },
+        {
+            "name": "Čkyně,Spůle,rozc.1.0",
+            "departure": "11:29",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bohumilice,,rozc.0.5",
+            "departure": "11:32",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Čkyně,,aut.nádr.",
+            "departure": "11:36",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">1</span></span>\n"
+        },
+        {
+            "name": "Lčovice,,rozc.1.0",
+            "departure": "11:38",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Malenice,Zlešice,U Kožených",
+            "departure": "11:41",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Malenice,Zlešice",
+            "departure": "11:44",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Volyně,,nám.",
+            "departure": "11:53",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Strunkovice n.Vol.",
+            "departure": "12:00",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Radošovice,,rozc.0.5",
+            "departure": "12:03",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Strakonice,,aut.nádr.",
+            "departure": "12:15",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">4</span></span>\n"
+        },
+        {
+            "name": "Strakonice,,PS",
+            "departure": "12:17",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Rovná,,rozc.0.4",
+            "departure": "12:21",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Přešťovice,Kbelnice",
+            "departure": "12:24",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Přešťovice,Brusy,rozc.1.0",
+            "departure": "12:26",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Štěkeň,Vítkov,rozc.1.0",
+            "departure": "12:28",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dobev,Nová Dobev",
+            "departure": "12:29",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dobev,Stará Dobev",
+            "departure": "12:30",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dobev,Velké Nepodřice,rozc.",
+            "departure": "12:33",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dobev,Malé Nepodřice",
+            "departure": "12:34",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dobev,Oldřichov,rozc.1.5",
+            "departure": "12:35",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,LTŠ",
+            "departure": "12:38",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "12:52",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">3</span></span>\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "12:58",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">1</span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "13:02",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří",
+            "departure": "13:06",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Temešvár",
+            "departure": "13:11",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I",
+            "departure": "13:15",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křenovice",
+            "departure": "13:18",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bernartice,,nám.",
+            "departure": "13:21",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bernartice,Kolíšov,rozc.",
+            "departure": "13:24",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bernartice,Srlín",
+            "departure": "13:27",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Opařany,,aut.st.",
+            "departure": "13:30",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Opařany,Oltyně",
+            "departure": "13:35",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Drhovice",
+            "departure": "13:38",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Meziříčí,,rozc.0.5",
+            "departure": "13:39",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dražice,,Západ",
+            "departure": "13:40",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dražice",
+            "departure": "13:41",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Tábor,Všechov",
+            "departure": "13:44",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Tábor,Klokoty",
+            "departure": "13:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Tábor,,nem.",
+            "departure": "13:49",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Tábor,,poliklinika",
+            "departure": "13:53",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Tábor,,aut.nádr.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Vimperk,,aut.nádr.",
+            "departure": "11:20",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">3</span></span>\n"
+        },
+        {
+            "name": "Čkyně,Spůle,rozc.1.0",
+            "departure": "11:29",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bohumilice,,rozc.0.5",
+            "departure": "11:32",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Čkyně,,aut.nádr.",
+            "departure": "11:36",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">1</span></span>\n"
+        },
+        {
+            "name": "Lčovice,,rozc.1.0",
+            "departure": "11:38",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Malenice,Zlešice,U Kožených",
+            "departure": "11:41",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Malenice,Zlešice",
+            "departure": "11:44",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Volyně,,nám.",
+            "departure": "11:53",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Strunkovice n.Vol.",
+            "departure": "12:00",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Radošovice,,rozc.0.5",
+            "departure": "12:03",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Strakonice,,aut.nádr.",
+            "departure": "12:15",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">4</span></span>\n"
+        },
+        {
+            "name": "Strakonice,,PS",
+            "departure": "12:17",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Rovná,,rozc.0.4",
+            "departure": "12:21",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Přešťovice,Kbelnice",
+            "departure": "12:24",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Přešťovice,Brusy,rozc.1.0",
+            "departure": "12:26",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Štěkeň,Vítkov,rozc.1.0",
+            "departure": "12:28",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dobev,Nová Dobev",
+            "departure": "12:29",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dobev,Stará Dobev",
+            "departure": "12:30",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dobev,Velké Nepodřice,rozc.",
+            "departure": "12:33",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dobev,Malé Nepodřice",
+            "departure": "12:34",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dobev,Oldřichov,rozc.1.5",
+            "departure": "12:35",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,LTŠ",
+            "departure": "12:38",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "12:52",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">3</span></span>\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "12:58",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">1</span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "13:02",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří",
+            "departure": "13:06",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Temešvár",
+            "departure": "13:11",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I",
+            "departure": "13:15",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křenovice",
+            "departure": "13:18",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bernartice,,nám.",
+            "departure": "13:21",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bernartice,Kolíšov,rozc.",
+            "departure": "13:24",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Bernartice,Srlín",
+            "departure": "13:27",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Opařany,,aut.st.",
+            "departure": "13:30",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Opařany,Oltyně",
+            "departure": "13:35",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Drhovice",
+            "departure": "13:38",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Meziříčí,,rozc.0.5",
+            "departure": "13:39",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dražice,,Západ",
+            "departure": "13:40",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dražice",
+            "departure": "13:41",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Tábor,Všechov",
+            "departure": "13:44",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Tábor,Klokoty",
+            "departure": "13:48",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Tábor,,nem.",
+            "departure": "13:49",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Tábor,,poliklinika",
+            "departure": "13:53",
+            "fixed_codes": "\n"
+        }
+    ],
+    "Bus 360006 15":
+    [
+        {
+            "name": "Albrechtice n.Vlt.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "12:55",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">4</span></span>\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "12:59",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "13:03",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "13:05",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "13:06",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "13:07",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly",
+            "departure": "13:08",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dolní Novosedly,Chrastiny",
+            "departure": "13:10",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky,Probulov",
+            "departure": "13:12",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Kluky,,U křížku",
+            "departure": "13:14",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky",
+            "departure": "13:16",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky,Dobešice",
+            "departure": "13:18",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Chřešťovice",
+            "departure": "13:20",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Jehnědno,U křížku",
+            "departure": "13:22",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Jehnědno",
+            "departure": "13:23",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Údraž,chalupy",
+            "departure": "13:25",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Údraž",
+            "departure": "13:27",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "12:55",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">4</span></span>\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "12:59",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "13:03",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "13:05",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "13:06",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "13:07",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Dolní Novosedly",
+            "departure": "13:08",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dolní Novosedly,Chrastiny",
+            "departure": "13:10",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky,Probulov",
+            "departure": "13:12",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Kluky,,U křížku",
+            "departure": "13:14",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky",
+            "departure": "13:16",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Kluky,Dobešice",
+            "departure": "13:18",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Chřešťovice",
+            "departure": "13:20",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Jehnědno,U křížku",
+            "departure": "13:22",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Jehnědno",
+            "departure": "13:23",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Údraž,chalupy",
+            "departure": "13:25",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Albrechtice n.Vlt.,Údraž",
+            "departure": "13:27",
+            "fixed_codes": "\n"
+        }
+    ],
+    "Bus 360068 15":
+    [
+        {
+            "name": "Písek,Dobešice,S.N.O.P.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Milevsko,,aut.st.",
+            "departure": "12:32",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">9</span></span>\n"
+        },
+        {
+            "name": "Milevsko,,stadion",
+            "departure": "12:36",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Okrouhlá,,rozc.",
+            "departure": "12:40",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Křižanov,,rozc.1.0",
+            "departure": "12:41",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Veselíčko",
+            "departure": "12:43",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Veselíčko,Bílina",
+            "departure": "12:45",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Bernartice,,nám.",
+            "departure": "12:49",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křenovice",
+            "departure": "12:52",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I",
+            "departure": "12:55",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I,Podolsko,rozc.",
+            "departure": "12:58",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Temešvár",
+            "departure": "13:00",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Jamný,rozc.",
+            "departure": "13:02",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří",
+            "departure": "13:04",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "13:06",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "13:08",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "13:10",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "13:12",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "13:16",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "13:22",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">V</span></span>\n"
+        },
+        {
+            "name": "Písek,,Hradištská",
+            "departure": "13:25",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,Purkratice,Průmyslová",
+            "departure": "13:30",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Čížovská",
+            "departure": "13:32",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,Dobešice,S.N.O.P.",
+            "departure": "",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Milevsko,,aut.st.",
+            "departure": "12:32",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">9</span></span>\n"
+        },
+        {
+            "name": "Milevsko,,stadion",
+            "departure": "12:36",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Okrouhlá,,rozc.",
+            "departure": "12:40",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Křižanov,,rozc.1.0",
+            "departure": "12:41",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Veselíčko",
+            "departure": "12:43",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Veselíčko,Bílina",
+            "departure": "12:45",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Bernartice,,nám.",
+            "departure": "12:49",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Křenovice",
+            "departure": "12:52",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I",
+            "departure": "12:55",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Podolí I,Podolsko,rozc.",
+            "departure": "12:58",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Temešvár",
+            "departure": "13:00",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Jamný,rozc.",
+            "departure": "13:02",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Záhoří,Horní Záhoří",
+            "departure": "13:04",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Dolní Novosedly,,rozc.",
+            "departure": "13:06",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Kamenné doly",
+            "departure": "13:08",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,cihelna Na Ptáčkovně",
+            "departure": "13:10",
+            "fixed_codes": "\n<span><spanclass=\"color-lightgrey\"><spanclass=\"wwwtt\"title=\"naznamení\">D</span></span></span>\n"
+        },
+        {
+            "name": "Písek,,Sedláčkova",
+            "departure": "13:12",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Budějovická",
+            "departure": "13:16",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,aut.nádr.",
+            "departure": "13:22",
+            "fixed_codes": "\n<span><spantitle=\"stanoviště\"class=\"color-green\">V</span></span>\n"
+        },
+        {
+            "name": "Písek,,Hradištská",
+            "departure": "13:25",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,Purkratice,Průmyslová",
+            "departure": "13:30",
+            "fixed_codes": "\n"
+        },
+        {
+            "name": "Písek,,Čížovská",
+            "departure": "13:32",
+            "fixed_codes": "\n"
+        }
+    ]
+}

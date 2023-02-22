@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ZIOS</title>
+  	<link rel="stylesheet" href="../static/main.css">
+ 	<meta name="viewport" content="width=device-width, initial-scale=1">	
+</head>
+<body>
+ 	<main>
+		<div class="connection-list"> 		
+ 		{% for spoj_list in spoje %}
+         {% for spoj in spoj_list %}
+          {{ details[spoj[1]] }}
+<div class="box connection detail-box ca-collapsed">
+      <div class="connection-head">
+         <div class="date-total">
+            <h2 class="reset date">{{ spoj[2] }}<span class="date-after"></span></h2>
+            <p class="reset total"><strong></strong><strong></strong></p>
+         </div>
+      </div>
+      <div class="connection-details ">
+         <div class="line-item">
+            <div class="outside-of-popup">
+               <a href="https://idos.idnes.cz/vlakyautobusymhdvse/spojeni/draha/?p=Fyb5SSWpsOpfNdTbad2ENJbWcIJWPi9VPKdXKmXAFhEI57XcjyYT0HVj9YDaSAEMMdrnbqVo8hc-&amp;from=63&amp;to=26622&amp;depTime=7:05&amp;arrTime=7:40" class="title" title="Zobrazit detail spoje"><div class="line-title">
+                     <div class="title-container">
+                        <h3 style="color: #0000FF;"><span>{{ spoj[1] }}</span></h3>
+                        <p class="line-right-part reset">
+                           <span class="owner"><span>{{ spoj[5] }}</span></span>
+                        </p>
+                     </div>
+                  </div>
+               </a>
+               <span class="conn-result-delay-bubble-925349260">
+               </span>
+               <ul class="reset stations first last">
+                  <li class="item active ">
+                     <p class="reset time">{{ spoj[2] }}</p>
+                     <p class="station"><strong class="name">{{ spoj[0] }}</strong></p>
+                  </li>
+                  <li class="item active last">
+                     <p class="reset time">{{ details[spoj[1]][0] }}</p>
+                     <p class="station"><strong class="name">{{ spoj[4] }}</strong></p>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="connection-expand">
+         <ul class="reset connection-expand__actions">
+            <li class="expand">
+               <a class="ext-expand ico-down">
+               <span>Detaily spojení</span>
+               </a>
+            </li>
+         </ul>
+      </div>
+   </div>  
+
+		</div>  			
+  			<br/>
+		    {%endfor%}
+      <div style="width: 100vw; height: 500px; "></div>
+      {%endfor%}
+
+		</div>
+  	</main>
+</body>
+</html>
